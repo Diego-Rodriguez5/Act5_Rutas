@@ -1,14 +1,4 @@
-# Act5_Rutas
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
+## - Act5_Rutas
 ## Pantalla Uno
 ![image](https://github.com/user-attachments/assets/506964ae-a77b-47e3-9950-11212c95ccf2)
 
